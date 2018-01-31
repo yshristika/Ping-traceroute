@@ -1,7 +1,4 @@
 """
-Shristika Yadav
-Computer networks
-Project 3
 Ping Trace-route
 Implement in terminal - sudo python ./traceroute.py
 """
